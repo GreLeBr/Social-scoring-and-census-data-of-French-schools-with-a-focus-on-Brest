@@ -5,4 +5,7 @@ Fom open data available at https://www.data.gouv.fr/fr/datasets/indices-de-posit
 ![Ranking in Rennes academy](RENNES%20(1).png)
 
 
+![Brest map](_includes/map.jpg)
+
+
 {% include brest_schools.html %}
